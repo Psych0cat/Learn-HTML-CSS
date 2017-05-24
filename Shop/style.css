@@ -1,0 +1,67 @@
+.page-body {
+    background: #f8f8f8;
+	height: 100%
+}
+
+.navigation__item {
+	list-style-type: none;
+}
+
+.navigation__link {
+	font-family: "Times New Roman";
+	color: #800000; /* ужасный цвет( */
+	font-size: 18px;
+}
+
+.product__headers {
+	color: black;
+	font-size: 18px;
+	font­weight: 400;
+}
+
+.product__short {
+	font-size: 14px;
+	font­style: italic;
+    line­height: 16px;
+	color: #707070;
+}
+
+.product__full {
+	font-size: 16px;
+	font­style: italic;
+    line­height: 24px;
+	color: #484343;
+	text­align: left;
+}
+
+.product__description {
+	font­style: italic;
+}
+
+.user-input__field {
+	height: 100px;
+	width: 300px;
+	color: #707070;
+}
+
+.user-input__text {
+	color: #707070;
+	font­style: italic;
+}
+
+.html-top {
+	height: 100%;
+}
+
+.header {
+	height: 100%;
+}
+
+.page-footer {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	text-align: center;
+	padding: 20px;
+}
